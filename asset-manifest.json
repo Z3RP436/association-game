@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/association-game/static/css/main.3972fef1.css",
-    "main.js": "/association-game/static/js/main.3095318e.js",
+    "main.js": "/association-game/static/js/main.7f9e9c26.js",
     "static/js/453.ed3810f9.chunk.js": "/association-game/static/js/453.ed3810f9.chunk.js",
     "index.html": "/association-game/index.html",
     "main.3972fef1.css.map": "/association-game/static/css/main.3972fef1.css.map",
-    "main.3095318e.js.map": "/association-game/static/js/main.3095318e.js.map",
+    "main.7f9e9c26.js.map": "/association-game/static/js/main.7f9e9c26.js.map",
     "453.ed3810f9.chunk.js.map": "/association-game/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3972fef1.css",
-    "static/js/main.3095318e.js"
+    "static/js/main.7f9e9c26.js"
   ]
 }
