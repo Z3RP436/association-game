@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/association-game/static/css/main.e32b97f3.css",
-    "main.js": "/association-game/static/js/main.94e6c512.js",
+    "main.js": "/association-game/static/js/main.692fd2f6.js",
     "static/js/453.ed3810f9.chunk.js": "/association-game/static/js/453.ed3810f9.chunk.js",
     "static/media/InterVariable-Italic.woff2": "/association-game/static/media/InterVariable-Italic.e295f70fe3e2df296c7b.woff2",
     "static/media/InterVariable.woff2": "/association-game/static/media/InterVariable.a0e477f2f1f9d2376fde.woff2",
@@ -12,11 +12,11 @@
     "static/media/primeicons.woff2": "/association-game/static/media/primeicons.024b32cc7bf399b1a847.woff2",
     "index.html": "/association-game/index.html",
     "main.e32b97f3.css.map": "/association-game/static/css/main.e32b97f3.css.map",
-    "main.94e6c512.js.map": "/association-game/static/js/main.94e6c512.js.map",
+    "main.692fd2f6.js.map": "/association-game/static/js/main.692fd2f6.js.map",
     "453.ed3810f9.chunk.js.map": "/association-game/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e32b97f3.css",
-    "static/js/main.94e6c512.js"
+    "static/js/main.692fd2f6.js"
   ]
 }
